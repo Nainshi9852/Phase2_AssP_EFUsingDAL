@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFUsingDataAccessLayer", "EFUsingDataAccessLayer\EFUsingDataAccessLayer.csproj", "{3A4ADC6E-2D2D-4605-A14B-FB0980D4344F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4ADC6E-2D2D-4605-A14B-FB0980D4344F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4ADC6E-2D2D-4605-A14B-FB0980D4344F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4ADC6E-2D2D-4605-A14B-FB0980D4344F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4ADC6E-2D2D-4605-A14B-FB0980D4344F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B90C134-181F-4366-9E9F-57EDC644FE5F}
+	EndGlobalSection
+EndGlobal
